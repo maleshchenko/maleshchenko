@@ -3,7 +3,7 @@ Hi 👋 My name is Mykola
 iOS developer and AI enthusiast
 -------------------------------
 * 🌍  I'm based in Kyiv, Ukraine 🇺🇦
-* 💼  Working at Jabil
+* 💼  Working at Transcenda
 * ✉️  You can contact me at [mykola@aleshchenko.com](mailto:mykola@aleshchenko.com)
 * 🧠  Learning various aspects of ML and AI
 * 🤝  I'm open to collaborating on iOS and AI projects
