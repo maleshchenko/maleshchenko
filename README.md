@@ -4,7 +4,7 @@ iOS developer and AI enthusiast
 -------------------------------
 * 🌍  I'm based in Kyiv, Ukraine 🇺🇦
 * 💼  Working at Transcenda
-* ✉️  You can contact me at [mykola@aleshchenko.com](mailto:mykola@aleshchenko.com)
+* ✉️  You can contact me at [mykola@aleshchenko.com](mailto:mykola.aleshchenko@gmail.com)
 * 🧠  Learning various aspects of ML and AI
 * 🤝  I'm open to collaborating on iOS and AI projects
 
